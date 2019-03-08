@@ -1,0 +1,33 @@
+Palindromic Prime - QUIZ - 1M 
+
+	1. START
+	2. enter range
+	3. identify the elements from 2 within the range
+	4. Process for identifying the prime numbers
+	5. Get the binary of the prime and reverse its binary
+	6. If binary is equal to the reverse, print "PALINDROMIC PRIME"
+	7. END
+
+Wasteful Number - QUIZ - 2M 
+
+	1. START
+	2. Input numbers, break if '0'
+	3. get the number's prime factors, then count
+	4. Count the number of digits 
+	5. Compare the number of digits and prime factors
+	6. If prime factors is less than digits, print "NON-WASTEFUL NUMBER"
+	7. Else, print "WASTEFUL NUMBER"
+	8. END
+
+Palindromic Prime of the Wasteful Prime factors - MIDTERM
+
+	1. START
+	2. Enter range
+	3. identify elements from 2 within the range
+	4. Determine prime factors of each element, then count the factors
+	5. Count the number of digits of the number
+	6. Compare the number of digits and prime factors
+	7. If factor is greater than digits, start printing "WASTEFUL NUMBER" that it's binary is 3 digits 
+	8. Get the binary of each of the wasteful prime factors, and then reverse its binary 
+	9. If binary is equal to reverse, then print only the "PALINDROMIC PRIME FACTORS" of the specific wasteful number
+	10. END 
